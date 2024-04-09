@@ -14,12 +14,12 @@ function Header() {
    <div><Title/></div>
   )
 }
-function Footer() {
+function Content() {
    return(
    <div><Title/></div>
    )
 }
-function Content() {
+function Footer() {
   return(
    <div><Title/></div> 
   )
